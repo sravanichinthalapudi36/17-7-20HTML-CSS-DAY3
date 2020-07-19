@@ -1,0 +1,16 @@
+Day-3 Hands-on-Assignment:
+
+1.Design Flexbox using screenshots.
+   a.row
+   b.column
+2.Design CSS Animation using screenshots by using following methods
+    a.scale()
+    b.skew()
+    c.translate()
+    d.rotate()
+
+
+Self-Study Assignment:
+
+1.Difference between em and rem in css3
+2.videos to be completed (HTML-CSS/GITHUB)
