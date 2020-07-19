@@ -1,5 +1,5 @@
 section, h1 {
-  margin: 2rem 4rem; 
+  text-align: left;
  }
  
  .square {
@@ -17,7 +17,7 @@ section, h1 {
  }
  
  #skew .square:hover {  
- transform: skew(30deg, 0);
+ transform: skew(35deg, 0);
  } 
  
  #scale .square div { 
@@ -25,12 +25,12 @@ section, h1 {
     position: absolute;
     left: 25%;
     top: 25%;
-    width: 75px;
-    height: 75px;
+    width: 70px;
+    height: 70px;
  }
  
  #scale .square div:hover {
-     transform: scale(0.3);
+     transform: scale(0.4);
  }
  
  #rotate .square {
@@ -38,7 +38,7 @@ section, h1 {
  }
  
  #rotate .square:hover {   
-      transform: rotate(40deg);
+      transform: rotate(50deg);
  }
  
  
